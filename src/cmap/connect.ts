@@ -265,6 +265,7 @@ export const LEGAL_TLS_SOCKET_OPTIONS = [
   'pfx',
   'rejectUnauthorized',
   'secureContext',
+  'secureOptions',
   'secureProtocol',
   'servername',
   'session'
